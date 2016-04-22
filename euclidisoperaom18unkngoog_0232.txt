@@ -1,0 +1,34 @@
+AD EUCLIDEM LIB. VIII. 195
+
+quarum una est hec: (lum fuerint duo numeri, quorum
+unius ad alterum proportio sit sicut proportio
+numeri quadrati ad numerum quadratum, ipsi
+erunt superficiales similes. Altera est: Cum fuerint
+duo numeri, quorum unius ad alterum proportio 5
+sit sicut proportio cubi ad cubum, ipsi sunt solidi
+similes. Harum autem probatio facilis, quoniam inter
+omncs duos numeros quadratos cadIt numerus et continu·
+atur proportionaliter, ergo inter duos quadratos cadit
+numerus unus3 et inter duos cubos cadunt <duo> numeri ro
+et continuantur proportionaliter. Igitur numeratio eius,
+quod cadit inter eos ex numeriS, est stcut numeratio eius,
+40 quod Ι cadit inter omnes duos numeros secundum propor-
+tionem ipsorum: ergo cadIt inter omnes duos numeroS,
+qui sunt secundum proportionem duorum quadratorum, 15
+numerus unus, et inter duos numeros, qui sunt in pro-
+portione duorum numerorum cubicorum, duo numeri, et
+continuantur proportionaliter, et duo numeri, qui sunt
+secundum proportionem duorum numerorum quadratomm,
+sunt superficiales similes3 et duo numeri, qui sunt secun- no
+dum (proportionem) duorum numerorum cubicorum, sunt
+solidi (similes), et illud est, quod demonstrare voluimus.
+
+2-3. proportio unius quadrati. — 4. latera est. — 15.
+quod sunt. »
+
+ultratus cubi ort aliquem cabum. Haeo duae propositiones Hnnoms,
+ultimae, in quibus eius mentio fit, conversas praebent huius ct
+inmediate antecedentis propositionis Eucnmrs.
+
+ 
+

@@ -1,0 +1,42 @@
+An EUOLIDEM LIB. X, 285
+
+itaqu'e ex 9ο duo, ct remanebunt duo3 accipiam autem
+’,0 radicem l eius, et addam eam supra duo et minuam eam
+ex duobus: erit ergo una duarum sectionum binarius et
+radix binarii, <quod est linea aa, etaltera est binarius
+excepta radice binarii>‚ quod est linea ab. Protraham 5
+autem perpendicularem cd, et coniungam u cum d et d
+cum b: ergo aa cst duo et radix duorum, et bc est bi·
+narius excepta radice binarii. Volo autem scire quanti-
+tatem 'cuiusque linearum cd et db. Et iam fuit osten·
+sum in figura octava sexte partie, quod proportio ab ad ιο
+ud est sicut proportio cd ad ca. Multiplicabo itaque
+quatuor in binarium et radicem binarii, quod est, ut
+multiplicem quatuor in duo, provenient ergo octo. Deinde
+multiplico quatuor <in quatuor) et fient sexdecim, quem
+multiplicabo in duo, et provenient triginta duo, cuins15
+assumam radicem et adiungam (eam) cum octo: erit
+erg0, quod provenit, quadratum liuee od. Dico igitur,
+quod linea cd est radix accepta ex eo, quod fit ex octo
+et radice triginta duorum coniunctis3 ot db est radix ’
+assumpta ex eo, quod provenit ex octo excepta radice 2⁰
+trigintaduorum, et etiam, quod proportio ca ad ab est
+sicut proportio quadrati adad quadratum ub, quod sic
+probatur. Quoniam proportio aa ad ab est sicut pro·
+portio trianguli aad ad triangulum deb, et proportio
+trianguli ad triangulum est sicut proportio ad ad db 2⁵
+duplicata, que etiam est sicut proportio quadrati cd ad
+quadratum db3 ergo erit proportio dc ad ab sicut pro-
+portio quadrati ad ad quadratum db. Et dico otiam,
+quod multiplicatio ab iu da est equalis multiplicationi
+cd in db, quod sic probatur. Quoniam duo trianguli ³⁰
+
+aab, bda sunt similes, ergo proportio ab ad ad est sicut
+proportio bd ad dc: ergo multiplicatio ab in da est
+equalis multiplicationi ud in db3 et illud est, quod de-
+monstrare voluimus.
+
+1. duo] itaque. - 10. octava] cvto. — tt.. edomat.
+
+ 
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./euclidisoperaom18unkngoog/euclidisoperaom18unkngoog_0010.png"; bbox 0 0 2408 3848; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 199 1400 1035 1458">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 199 1400 1035 1458">
+     <span class='ocr_line' id='line_1_1' title="bbox 199 1400 1035 1458; baseline 0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 199 1400 395 1458; x_wconf 77' lang='lat' dir='ltr'>ALTISSIMO</span> <span class='ocrx_word' id='word_1_2' title='bbox 413 1401 461 1458; x_wconf 78' lang='lat' dir='ltr'>Ao</span> <span class='ocrx_word' id='word_1_3' title='bbox 479 1400 728 1458; x_wconf 81' lang='lat' dir='ltr'>SERENISSIMO</span> <span class='ocrx_word' id='word_1_4' title='bbox 746 1402 835 1458; x_wconf 82' lang='lat' dir='ltr'><strong>DUcl</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 852 1402 1035 1458; x_wconf 81' lang='lat' dir='ltr'>ASCANIAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 431 1620 805 1704">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 431 1620 805 1704">
+     <span class='ocr_line' id='line_1_2' title="bbox 431 1620 805 1704; baseline 0.005 -2"><span class='ocrx_word' id='word_1_6' title='bbox 431 1620 805 1704; x_wconf 78' lang='lat' dir='ltr'>FRIDERIOO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 96 1863 1141 1930">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 96 1863 1141 1930">
+     <span class='ocr_line' id='line_1_3' title="bbox 96 1863 1141 1930; baseline 0.003 -11"><span class='ocrx_word' id='word_1_7' title='bbox 96 1863 301 1919; x_wconf 71' lang='lat' dir='ltr'>HUMILLIME</span> <span class='ocrx_word' id='word_1_8' title='bbox 321 1863 524 1930; x_wconf 81' lang='lat' dir='ltr'><strong>SUMMAQUE</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 544 1864 619 1921; x_wconf 83' lang='lat' dir='ltr'>CUM</span> <span class='ocrx_word' id='word_1_10' title='bbox 638 1864 897 1921; x_wconf 83' lang='lat' dir='ltr'><strong>OBSERVANTIA</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 914 1864 1141 1922; x_wconf 82' lang='lat' dir='ltr'><strong>DEDIOATUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1208 3848">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1208 3848">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1208 3848; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1208 3848; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

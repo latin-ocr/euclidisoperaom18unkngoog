@@ -1,0 +1,44 @@
+AD EUCLIDEM LIB. I. 49
+
+Si quis nobis dixerit, quare Euonmss probavit in
+'hoo theoremate, quod duo anguli, qui sunt sub basi, sint
+equales, oum in libro suo non inveniatur per hos aliquid
+fecisse, respondebimus, quod ipse scivit illud, in quo
+dubitatur in 7⁰ theoremate et in 9⁰. Premisit itaque 5
+declarationem, ut per eam solveret dubitationem, quemad·
+modum ostendetur in eis. 1) Possibile tamen est, ut
+monstretur, quod duo anguli, qui sunt supra basim, sint
+equales, absque ostentatione equalitatis duorum angulorum,
+qui sunt sub basi, secundum huno modum.²) Sint du01⁰
+latera ob et eg trianguli uby equalia:
+dico igitur, quod angulus abq est equa·
+lis angulo egb. Probatio eius, quoniam
+signabo in linea ab punctum d, et
+secabo ex linea og lineam oe equalem 15
+linee ad, et protraham lineas dc, dg, cb.
+llt quia bo est equalis oy, et linea od
+est equalis linee oo, ergo duo latera
+<ab et oe> trianguli obesant equales
+9 b duobus lateribus oq et od trianguli ogd, 2⁰
+quodcumque videlicet latus suo relativo
+est equale, et angulus <a est eommunis utrique: ex proba· Ἰ
+tione ergo figure quarte huius partis erit basis bc equalis
+basi dg, et angulus oeb equalis angulo adq, et angilus> obe
+equalis angulo ogd. Si ergo due linee equales od, ae 25
+minuantur ex duabus lineis equalibus ab et og, remanebit
+linea db equalis linee eq. Sed iam fuit ostensum, quod
+linea bc equalis lineo μά, <et basis de communis est
+utrique: ex probatione ergo figure quarte> erit angulus
+›edb equalis angulo deq, et angulus bed equalis angulo ao
+yde. (lum ergo minuerimus eos ex duobus equalibus
+angulis bde, qod, remanebit angulus bdg equalis angulo
+beo. Latera quoque ipsos continentia equalia, quodque
+videlieet suo relativo equale, et basis by est communis
+
+1) Procnes 247, dsq. et 248, 8-11.
+2) Psocnus 248, 16-249, 19.
+
+Gomm. ad Enolid. ed. Curiae.
+
+ 
+

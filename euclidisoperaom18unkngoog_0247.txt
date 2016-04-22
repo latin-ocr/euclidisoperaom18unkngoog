@@ -1,0 +1,42 @@
+210 ANARlTIl COMMENTARII AD EUCLIDEM LIB. IX.
+
+Numerum ergo d non numerat nisi aliquis ex numeris α,
+b, y. Sed numerus 1 non est unus ex eis, ergo numerus
+1 non numerat numerum d. Sed propotio 1 ad d est
+sieut proportio e ad 1, 111 non numerat d: ergo 1 non
+enumerat 1. Sed 1 111 primus, ergo duo numeri 11111111
+primi, et ipsi sunt maiores numeri seeundum proportio·
+nem suam, et numerat omnis duos numeros seeundum
+proportionem suam minor minorem et maior maiorem
+equaliter: ergo 1 numerat d, ergo ipse est unus 11
+10 numeris 1, b, 9, quoniam, eum fuerint numeri ab uno
+vicissim continui secundum proportionem (unam), et fuerit
+1111, qui sequitur unum, primuS, non numerat postremum
+nisi numerus ex eis. Sed 1 numerat d postremum, ergo
+ipse 111 unus 11 111. Ponam itaque, ut ipse sit numerus
+1111. Deinde assumam a numero e numeros continuos seeun-
+dum proportionem numerorum b, p, d, et seeundum eorum
+numerationem, qui sint numeri e, 111, l. Secundum equa-
+litatem igitur erit proportio b ad d siout proportio 11 ad l:
+ergo superficialiS, qui fit 11 1 in 11, 111 equalis super·
+aofieiali, qui fit ex 1) in t. Sed iam ostensum est, quod
+superficialis, qui fit 11 1 ind, est (equalis) superficiali,
+qui fit ex 1 in n: ergo superficialis, qui fit 11 1 in 1,
+111 equalis superficiali, qui fit 11 b in l. Sed super-
+ficialis, qui fit, ex 1111 o est 111, ergo superficialis, qui
+11 fit 11 b in l est 111, ergo proportio b ad 1 111 sieut pro-
+portio numeri 1 ad numerum l. Sed b est equalis 1,
+ergo 1 111 equalis 1. Sed nos iam posuimus, ut 1 non
+sit equalis alicui <numerorum> 1, b, y, d, 1, tl, 1, m,
+quod equidem inconveniens est et impossibile. Numerum
+³0 ergo 111 non numerat numerus preter numeros 1, b, 9,
+d, 1, to, 1, m <et unum eum eis>, et ipse est equalis
+numeris istis: ergo ipse <111> perfeetus3 et illud est, quod
+demonstrare voluimus.
+
+10. fuerit unus ab uno — 22. est superficialis.
+
+..ὰ-η.-
+
+ 
+
